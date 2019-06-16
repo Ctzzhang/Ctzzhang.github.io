@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://localhost:4000/2019/06/15/Java%E7%BA%BF%E7%A8%8B%E6%B1%A0/</loc>
-    <lastmod>2019-06-16</lastmod>
-  </url>  <url>
     <loc>http://localhost:4000/2019/06/15/%E9%97%B4%E9%9A%99%E9%99%90%E6%B5%81%E7%AE%97%E6%B3%95/</loc>
     <lastmod>2019-06-16</lastmod>
   </url>  <url>
+    <loc>http://localhost:4000/2019/06/15/Java%E7%BA%BF%E7%A8%8B%E6%B1%A0/</loc>
+    <lastmod>2019-06-16</lastmod>
+  </url>  <url>
     <loc>http://localhost:4000/2019/06/14/hello-world/</loc>
-    <lastmod>2019-06-14</lastmod>
+    <lastmod>2019-06-16</lastmod>
   </url>
 </urlset>
